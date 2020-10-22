@@ -3,6 +3,7 @@
  
 # Quick start
 把这个文件夹放到你的工程根目录即可
+
 Run `pip install lpips`. The following Python code is all you need.
 ```python
 import lpips
