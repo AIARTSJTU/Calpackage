@@ -1,7 +1,7 @@
 # Calpackage
  Calculation package for LPIPS, PSNR, SSIM_value
  
-#Quick start
+# Quick start
 Run `pip install lpips`. The following Python code is all you need.
 ```python
 import lpips
