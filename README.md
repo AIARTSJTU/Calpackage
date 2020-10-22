@@ -1,5 +1,5 @@
 # Calpackage
- Calculation package for LPIPS, PSNR, SSIM_value
+ (PYTORCH BASE)Calculation package for LPIPS, PSNR, SSIM_value
  
 # Quick start
 Run `pip install lpips`. The following Python code is all you need.
